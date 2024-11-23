@@ -47,13 +47,13 @@ To run the ChurnInsightHub application locally, follow these steps:
 1. Clone the repository:
 
    ```
-   git clone https://github.com/yourusername/ChurnInsightHub.git
+   git clone https://github.com/8mishra/Churn_Prediction.git
    ```
 
 2. Navigate to the project directory:
 
    ```
-   cd ChurnInsightHub
+   cd Churn_Prediction
    ```
 
 3. Install the required dependencies:
