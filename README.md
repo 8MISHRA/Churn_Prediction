@@ -79,9 +79,9 @@ To run the ChurnInsightHub application locally, follow these steps:
 
 ## Team
 
-1. Nagmani Kumar
+1. Divyansh Mishra
 
-2. Divyansh Mishra
+2. Nagmani Kumar
 
 3. Sanjay VP
 
